@@ -328,7 +328,7 @@ const animationTimeline = () => {
     var clr = setInterval(flash, 500);
 
     
-    window.open('https://sriparnaroy.000webhostapp.com/');  
+    window.open('https://sriparna19.netlify.app/');  
   });
 };
 
